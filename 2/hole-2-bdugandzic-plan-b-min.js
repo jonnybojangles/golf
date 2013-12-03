@@ -1,0 +1,1 @@
+(function(e,t){"use strict";var n="";e.forEach(function(e){for(var t=e;t>0;t--){if(e/t%1==0)var r=!r}n=n+((!!r?"yes":"no")+"<br><br>")});t.write(n)})([1,2,8250,3910,1930,256,1321,8447,1969,6444,4926,3845],document)
